@@ -1,6 +1,6 @@
 Hi, I'm Ilham Adbib 👋
 I'm interested in Web development.
-I'm currently learning java programming language and oracle Database
+I'm currently learning JEE  and React 
 Let's connect and collaborate!
 
 <!---
