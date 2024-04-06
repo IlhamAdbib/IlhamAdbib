@@ -1,5 +1,6 @@
 <h3 align="center">Hi 👋, I'm Ilham ADBIB a Fourth year Computer science Engineering at ENSATE</h3>
 <h4 align="center">A passionate fullstack developer from Morocco</h4>
+<img src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif" alt="Girl Coding" style="align: right; max-width: 100px;" />
 
 - 🔭 I’m currently working on **A rent car and Home services projects**
 
@@ -10,6 +11,8 @@
 - 📫 How to reach me **ilhamadbib30@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
+
 <p align="left">
 <a href="https://linkedin.com/in/ilham adbib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilham adbib" height="30" width="40" /></a>
 <a href="https://fb.com/ilham adbib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ilham adbib" height="30" width="40" /></a>
